@@ -7,8 +7,8 @@ Actualmente existen cuatro [paradigmas] de programación principales:
 ###### Nota: Esta respuesta fue una de las primeras dudas, pues bien podríamos agrupar los paradigmas en programación declarativa e imperativa.
 
 1. **Programación imperativa**: Consistente en dar ordénes a la máquina. Describir pasos computacionales gestionados por estructuras de control. 
-2. **Programación funcional**: Basados en el concepto de funciones matemáticas, consiste en evaluar expresiones y tulizar su resultado para algo. Da abstracción natural de las expresiones, elevandolas a funciones, y siendos éstas, un tipo de dato más.
-3. **Programación lógica**: Consiste en extraer con conocimiento de un conjunto de hechos y relaciones para responder a una pregunta.
+2. **Programación funcional**: Basados en el concepto de funciones matemáticas, consiste en evaluar expresiones y utilizar su resultado para algo. Da abstracción natural de las expresiones, elevandolas a funciones, y siendo éstas, un tipo de dato más.
+3. **Programación lógica**: Consiste en extraer conocimiento de un conjunto de hechos y relaciones para responder a una pregunta.
 4. **Programación orientada a objetos**: Encapsular datos y operaciones en estructuras denominadas objetos. Esos objectos se comunican entre sí para simular un fénomeno del mundo real.
 
 ¿Qué lenguajes representan estos paradigmas?
@@ -21,7 +21,7 @@ Actualmente existen cuatro [paradigmas] de programación principales:
 
 En [Programming Language Pragmatics. Michael L. Scott. Morgan Kaufmann. Introducction. Pg. 12.Michael L.Scott] encontramos esto:
 
->Uno puede sospechar que los lenguajes concurrentes forman una clase separado, pero la distinción entre ejecución secuencial y concurrente es independiente de la clasificación hecha arriba.
+>Uno puede sospechar que los lenguajes concurrentes forman una clase separada, pero la distinción entre ejecución secuencial y concurrente es independiente de la clasificación hecha arriba.
 >Muchos lenguajes concurrentes se escriben usando lenguajes secuenciales y librerías especiales.
 
 Por tanto, podemos considerar la concurrencia como una característica de los lenguajes pero no un estilo de programación en sí.
@@ -71,7 +71,7 @@ De nuevo volvemos al libro [Programming Language Pragmatics. Michael L. Scott. M
 
 - Preferencia personal.
 
-- Potencía de expresión.
+- Potencia de expresión.
 
 - Curva de aprendizaje.
 
@@ -90,4 +90,4 @@ De nuevo volvemos al libro [Programming Language Pragmatics. Michael L. Scott. M
 [paradigmas]: http://people.cs.aau.dk/~normark/prog3-03/html/notes/paradigms_themes-paradigm-overview-section.html
 [Programming Language Pragmatics. Michael L. Scott. Morgan Kaufmann. Introducction. Pg. 7.Michael L.Scott]: https://books.google.es/books?id=GBISkhhrHh8C&printsec=frontcover&dq=Programing+language+pragmatics&hl=es&sa=X&ei=1h8oUv_HF6fZ0QXTzoGIDA&ved=0CDQQ6AEwAA#v=onepage&q=Programing%20language%20pragmatics&f=false
 [Programming Language Pragmatics. Michael L. Scott. Morgan Kaufmann. Introducction. Pg. 12.Michael L.Scott]: https://books.google.es/books?id=GBISkhhrHh8C&printsec=frontcover&dq=Programing+language+pragmatics&hl=es&sa=X&ei=1h8oUv_HF6fZ0QXTzoGIDA&ved=0CDQQ6AEwAA#v=onepage&q=Programing%20language%20pragmatics&f=false
-[ProgrammerInterview]: http://www.programmerinterview.com/index.php/general-miscellaneous/whats-the-difference-between-a-compiled-and-an-interpreted-language/
+[Programmer Interview]: http://www.programmerinterview.com/index.php/general-miscellaneous/whats-the-difference-between-a-compiled-and-an-interpreted-language/

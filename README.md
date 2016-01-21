@@ -18,3 +18,8 @@ Tema III: Ruby
 Tema IV: Bloques
 
 Tema V: Hilos y fibras
+
+
+##Agradecimientos:
+
+[Andres Cidoncha Carballo](https://github.com/andrescidoncha)
