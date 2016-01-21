@@ -37,5 +37,5 @@ Aún así, en [este] documento, he hecho un pequeño cheatsheet para poder consu
 [Go to]: https://en.wikipedia.org/wiki/Goto#Criticism
 [Teorema de la programación estructurada]: https://en.wikipedia.org/wiki/Structured_program_theorem
 [Ruby]: https://www.ruby-lang.org/es/
-[este]: (https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/RubyCheatsheet.md)
+[este]: https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/RubyCheatsheet.md
 [Programación procedural]: https://en.wikipedia.org/wiki/Procedural_programming
