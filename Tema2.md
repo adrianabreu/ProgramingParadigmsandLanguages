@@ -13,6 +13,7 @@
 [Go to]: Instrucción que permitía desplazarse de una zona a otra del programa. Actualmente en desuso y considerada perjudicial, debido a que su abuso dificultaba enormemente seguir la traza de un programa.
 
 [Teorema de la programación estructurada]: Teorema que dice que toda función computable puede realizarse si se combinan subprogramas en tres formas específicas (estructuras de control):
+
 1. Ejecutando un subprograma, y despues otro subpgrograma (secuencia).
 2. Ejecutando uno de los dos subprogramas de acuerdo a una expresión booleana (selección).
 3. Ejecutar un subprograma hasta que se cumpla una expresión booleana (iteración).
