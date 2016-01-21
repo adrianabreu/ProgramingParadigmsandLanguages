@@ -38,5 +38,4 @@ Aún así, en [este] documento, he hecho un pequeño cheatsheet para poder consu
 [Teorema de la programación estructurada]: https://en.wikipedia.org/wiki/Structured_program_theorem
 [Ruby]: https://www.ruby-lang.org/es/
 [este]: (https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/RubyCheatsheet.md)
-
-
+[Programación procedural]: https://en.wikipedia.org/wiki/Procedural_programming
