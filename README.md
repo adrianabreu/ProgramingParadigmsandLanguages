@@ -27,4 +27,4 @@ Tema V: Hilos y fibras
 
 [Andres Cidoncha Carballo](https://github.com/andrescidoncha) (Corrector principal)
 
-[Miguel Diaz Hernandez](https://github.com/Madh93) (Corrector ocasional)
+[Miguel Hernandez](https://github.com/Madh93) (Corrector ocasional)
