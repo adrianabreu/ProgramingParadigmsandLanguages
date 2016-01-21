@@ -11,7 +11,7 @@ También se tocan muchos temas que engloba la asignatura, como el protocolo git,
 
 [Tema I: Modelos de Programación.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema1.md)
 
-Tema II: 
+[Tema II: Programacion Imperativa.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema2.md) 
 
 Tema III: Ruby
 
@@ -19,7 +19,10 @@ Tema IV: Bloques
 
 Tema V: Hilos y fibras
 
+###Anexos:
+
+[Ruby Cheatsheet](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/RubyCheatsheet.md)
 
 ##Agradecimientos:
 
-[Andres Cidoncha Carballo](https://github.com/andrescidoncha)
+[Andres Cidoncha Carballo](https://github.cyom/andrescidoncha)
