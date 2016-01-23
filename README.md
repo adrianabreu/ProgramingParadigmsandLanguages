@@ -13,7 +13,7 @@ También se tocan muchos temas que engloba la asignatura, como el protocolo git,
 
 [Tema II: Programacion Imperativa.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema2.md) 
 
-Tema III: Ruby
+[Tema III: Ruby.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema3.md) 
 
 Tema IV: Bloques
 
