@@ -6,21 +6,21 @@ Se han tomado estas definciones de diversas fuentes bibliográficas tales como:
 [Ruby Doc](http://ruby-doc.org/)
 [Tutorials Point](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
 
-Clase: Plantilla que permite definir el conjunto de características, funcionalidades y atributos que va a disponer un un objeto.
+**Clase**: Plantilla que permite definir el conjunto de características, funcionalidades y atributos de los que va a disponer un objeto.
 
-Objeto: Paquete de software que permite represetar objetos del mundo real. Define un estado (conjunto de variables) y un comportamiento (conjunto de métodos). 
+**Objeto**: Paquete de software que permite represetar objetos del mundo real. Define un estado (conjunto de variables) y un comportamiento (conjunto de métodos). 
 
-Variable local: Variables que solo pueden accederse desde la función o bloque de instrucciones donde se declaran. (_variablelocal o variablelocal)
+**Variable local**: Variables que solo pueden accederse desde la función o bloque de instrucciones donde se declaran. (_variablelocal o variablelocal)
 
-Variable de instancia: Es una variable que puede ser accedida desde cualquier parte de una instancia. (@variable)
+**Variable de instancia**: Es una variable que puede ser accedida desde cualquier parte de una instancia. (@variable)
 
-Variable de clase: Es una variable común a todos los objetos de una misma clase. (@@variable)
+**Variable de clase**: Es una variable común a todos los objetos de una misma clase. (@@variable)
  
-Variable global: Variables que pueden ser accedidas desde cualquier lugar del programa. ($variable)
+**Variable global**: Variables que pueden ser accedidas desde cualquier lugar del programa. ($variable)
 
-Getter y Setter: Métodos que permiten obtener (getter) o modificar (setter) los atributos correspondientes que se han aislado mediante encapsulación.
+**Getter y Setter**: Métodos que permiten obtener (getter) o modificar (setter) los atributos correspondientes que se han aislado mediante encapsulación.
 
-Polimorfismo: Capacidad de presentar la misma interfaz para diferentes subtipos de datos. Creando una abstracción génerica.
+**Polimorfismo:** Capacidad de presentar la misma interfaz para diferentes subtipos de datos. Creando una abstracción génerica.
 
 **[Tipo]**: Aplicamos dos definiciones aquí.
 
@@ -32,27 +32,27 @@ Polimorfismo: Capacidad de presentar la misma interfaz para diferentes subtipos 
 
 Por tanto, un objeto puede tener solo una clase, pero puede tener múltiples tipos, ya que cada superclase provee un subconjunto de funcionales que están disponibles en la clase del objeto.
 
-Herencia: Relación que existe entre dos clases donde una actúa como "padre" y cede sus atributos y métodos a una clase "hija". Es posible ver una "herencia múltiple" pero en Ruby solo está disponible la herencia simple.
+**Herencia**: Relación que existe entre dos clases donde una actúa como "padre" y cede sus atributos y métodos a una clase "hija". Es posible ver una "herencia múltiple" pero en Ruby solo está disponible la herencia simple.
 
-Invalidación de un método: Técnica que modifica el comportamiento de la clase heredada reescribiendo el método que ha recibido de su padre.
+**Invalidación de un método**: Técnica que modifica el comportamiento de la clase heredada reescribiendo el método que ha recibido de su padre.
 
-[Encapsulación]: Aislamiento de los datos miembros de un objeto, de tal forma que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
+**[Encapsulación]**: Aislamiento de los datos miembros de un objeto, de tal forma que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
 
-Módulos: Forma de agrupar métodos, clases y constantes. En Ruby los módulos no son instanciables, pero proveen de dos ventajas, de un espacio de nombres y de la implementación de los mix-in.
+**Módulos**: Forma de agrupar métodos, clases y constantes. En Ruby los módulos no son instanciables, pero proveen de dos ventajas, de un espacio de nombres y de la implementación de los mix-in.
 
-Mix-in: Clase que no está heredada para ser autónoma sino para proveer cierta funcionalidad que debe ser heredada por una subclase.
+**Mix-in**: Clase que no está heredada para ser autónoma sino para proveer cierta funcionalidad que debe ser heredada por una subclase.
 
-Espacio de nombres: Contenedor abstractao que permite mantener una relación entre distintos elementos. 
+**Espacio de nombres**: Contenedor abstractao que permite mantener una relación entre distintos elementos. 
 
-Clases Abstractas: Clases que poseen métodos declarados pero no definidos.
+**Clases Abstractas**: Clases que poseen métodos declarados pero no definidos.
 
-Clases Concretas: Clases que tienen definidos todos sus métodos declarados.
+**Clases Concretas**: Clases que tienen definidos todos sus métodos declarados.
 
-[Métodos Singleton]: Métodos definidos para una instancia particular que debe tener un comportamiento especial al margen de los elementos que ha recibido de la clase.
+**[Métodos Singleton]**: Métodos definidos para una instancia particular que debe tener un comportamiento especial al margen de los elementos que ha recibido de la clase.
 
-[Eigenclass]: Clases anónimas que mantienen los métodos singleton de los objetos. 
+**[Eigenclass]**: Clases anónimas que mantienen los métodos singleton de los objetos. 
 
-String Interpolation: Proceso de evaluar una string literal que contiene uno o más párametros sustituibles, generando un resultado en el cual los párametros son reemplazados por sus valores correspondientes.
+**String Interpolation**: Proceso de evaluar una string literal que contiene uno o más párametros sustituibles, generando un resultado en el cual los párametros son reemplazados por sus valores correspondientes.
 
 
 ##Herramientas de Ruby
@@ -75,20 +75,20 @@ IRB: Intérprete interactivo de Ruby,
 
 ##Unit testing y TDD
 
-Unit testing: Método de testeo de software en el cual alguna o varias partes de un programa se asocian con un datos o procedimientos específicos para comprobar que el resultado obtenido es el esperado.
+**Unit testing**: Método de testeo de software en el cual alguna o varias partes de un programa se asocian con un datos o procedimientos específicos para comprobar que el resultado obtenido es el esperado.
 
-Assertion: Pruebas elementales que confirman si el código que hemos desarrollado genera el resultado esperado.
+**Assertion**: Pruebas elementales que confirman si el código que hemos desarrollado genera el resultado esperado.
 
-**TDD**: Filosofía de desarrollo dirigodo por pruebas que prente verificar que el comportamiento de un objeto (respecto a sus métodos y atributos sea el esperado).
+**TDD**: Filosofía de desarrollo dirigido por pruebas que pretende verificar que el comportamiento de un objeto (respecto a sus métodos y atributos) sea el esperado.
 
-BDD: Abstracción del TDD llevado a enfocarse al comportamiento de los programas, generando un dominio de lenguaje específico que permite hacer pruebas de desarrollo con una sintaxis mucho más natural.
+**BDD**: Abstracción del TDD llevado a enfocarse al comportamiento de los programas, generando un dominio de lenguaje específico que permite hacer pruebas de desarrollo con una sintaxis mucho más natural.
 
 **Rspec**: Herramienta que implementa BDD en Ruby. (¡No olvides que la sintaxis should quedará obsoleta!)
 
 
 
 [Tipo]: http://stackoverflow.com/questions/468145/what-is-the-difference-between-type-and-class
-[Encapsulacion]: https://es.wikipedia.org/wiki/Encapsulamiento_%28inform%C3%A1tica%29
+[Encapsulación]: https://es.wikipedia.org/wiki/Encapsulamiento_%28inform%C3%A1tica%29
 [Métodos Singleton]: http://www.rubyist.net/~slagell/ruby/singletonmethods.html
 [Eigenclass]: http://madebydna.com/all/code/2011/06/24/eigenclasses-demystified.html
 [RVM]: https://rvm.io/
