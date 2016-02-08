@@ -15,7 +15,7 @@ También se tocan muchos temas que engloba la asignatura, como el protocolo git,
 
 [Tema III: Ruby.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema3.md) 
 
-Tema IV: Bloques
+[Tema IV: Bloques.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema4.md) 
 
 Tema V: Hilos y fibras
 
