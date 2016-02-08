@@ -17,7 +17,7 @@ También se tocan muchos temas que engloba la asignatura, como el protocolo git,
 
 [Tema IV: Bloques.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema4.md) 
 
-Tema V: Hilos y fibras
+[Tema V: Hilos y fibras.](https://github.com/aabreuglez/ProgramingParadigmsandLanguages/blob/master/Tema5.md) 
 
 ###Anexos:
 
